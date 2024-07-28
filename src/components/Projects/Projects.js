@@ -23,10 +23,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Ochi Design Clone"
+              title="My Portfolio"
               description="The Ochi Design Clone project is a careful copy of the stylish and simple website design of Ochi, a well-known design studio. This project shows my ability to recreate detailed layouts and design elements, paying close attention to every detail and keeping the look and function of the original site."
-              ghLink="https://github.com/realsachinr/Ochi-Design-Clone"
-              demoLink="https://ochi-design-clone-nine.vercel.app/"
+              ghLink="https://github.com/harry-40/Portfolio"
+              demoLink="https://my-portfolio-gtpxici8y-harry-40s-projects.vercel.app/"
             />
           </Col>
 
@@ -47,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="Weather App"
               description="Welcome to our Weather App! This app helps you stay updated with the latest weather conditions in your area. You can quickly check the temperature, humidity, wind speed, and more. It's simple to use and gives you accurate weather forecasts to help you plan your day. Whether you're heading out or staying in, our Weather App ensures you're always prepared for the weather."
-              ghLink="https://github.com/realsachinr/Weather-App"
-              demoLink="https://realsachinr.github.io/Weather-App/"              
+              ghLink="https://github.com/harry-40/weather-app"
+              demoLink="https://weather-app-gules-two-56.vercel.app/"              
             />
           </Col>
 
