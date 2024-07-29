@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
@@ -24,7 +23,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="My Portfolio"
-              description="The Ochi Design Clone project is a careful copy of the stylish and simple website design of Ochi, a well-known design studio. This project shows my ability to recreate detailed layouts and design elements, paying close attention to every detail and keeping the look and function of the original site."
+              description="A sleek and responsive frontend developer portfolio showcasing my skills, projects, and professional journey with a focus on modern web technologies"
               ghLink="https://github.com/harry-40/Portfolio"
               demoLink="https://my-portfolio-gtpxici8y-harry-40s-projects.vercel.app/"
             />
@@ -49,17 +48,6 @@ function Projects() {
               description="Welcome to our Weather App! This app helps you stay updated with the latest weather conditions in your area. You can quickly check the temperature, humidity, wind speed, and more. It's simple to use and gives you accurate weather forecasts to help you plan your day. Whether you're heading out or staying in, our Weather App ensures you're always prepared for the weather."
               ghLink="https://github.com/harry-40/weather-app"
               demoLink="https://weather-app-gules-two-56.vercel.app/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="Text To Speech Convertor"
-              description="This project helps you convert written text into natural-sounding speech. It's perfect for creating audio versions of documents, articles, or any text you want to listen to instead of read."
-              ghLink="https://realsachinr.github.io/Text-to-Voice-Convertor/"
-              demoLink="https://text-to-voice-convertor-nine.vercel.app/"
             />
           </Col>
 

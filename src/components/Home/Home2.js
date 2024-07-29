@@ -17,12 +17,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+             Passionate programmer specializing in crafting efficient, scalable, and innovative
+             solutions through code. I think… 🤷‍♂️
               <br />
-              <br />I'm <b className="purple">Hariom Rajput,</b> a passionate and creative Mern developer eager to bring fresh ideas and innovative solutions to the tech world. With a strong foundation in
+              <br />I'm <b className="purple">Hariom Rajput,</b> a passionate and creative frontend developer eager to bring fresh ideas and innovative solutions to the tech world. With a strong foundation in
               <i>
-                <b className="purple"> HTML, CSS, JavaScript and Framework Like React.JS Next.js  </b>
+                <b className="purple"> HTML, CSS, JavaScript and Framework Like React.JS   </b>
               </i>
               I specialize in crafting visually stunning and user-friendly websites.
               
